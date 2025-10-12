@@ -1,0 +1,251 @@
+[02:32:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:32:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:32:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:32:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:32:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:32:45] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:32:46] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 608.2ms
+[02:32:46] [ServerMain/WARN]: Missing data pack Fabric Mods
+[02:32:46] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:32:46] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[02:32:48] [ServerMain/INFO]: Loaded 1407 recipes
+[02:32:48] [ServerMain/INFO]: Loaded 1520 advancements
+[02:32:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:32:48] [Server thread/INFO]: Loading properties
+[02:32:48] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:32:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:32:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:32:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:32:50] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:32:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:32:50] [Server thread/INFO]: Default game type: SURVIVAL
+[02:32:50] [Server thread/INFO]: Generating keypair
+[02:32:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:32:51] [Server thread/INFO]: Using epoll channel type
+[02:32:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:32:51] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:32:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:32:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:32:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:32:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:32:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:32:51] [Server thread/INFO]: Preparing level "world"
+[02:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:32:52] [Server thread/INFO]: Preparing spawn area: 0%
+[02:32:52] [Server thread/INFO]: Preparing spawn area: 2%
+[02:32:53] [Server thread/INFO]: Preparing spawn area: 93%
+[02:32:53] [Server thread/INFO]: Time elapsed: 1331 ms
+[02:32:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:32:53] [Server thread/INFO]: Preparing spawn area: 0%
+[02:32:53] [Server thread/INFO]: Time elapsed: 376 ms
+[02:32:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:32:53] [Server thread/INFO]: Preparing spawn area: 0%
+[02:32:53] [Server thread/INFO]: Time elapsed: 210 ms
+[02:32:53] [Server thread/INFO]: [spark] Starting background profiler...
+[02:32:56] [Server thread/INFO]: Done preparing level "world" (4.966s)
+[02:32:56] [Server thread/INFO]: Running delayed init tasks
+[02:32:56] [Server thread/INFO]: Done (56.136s)! For help, type "help"
+[02:33:00] [User Authenticator #0/INFO]: UUID of player ElMuchecho is e976a132-7244-3eef-a23b-c7e289bfdfb8
+[02:33:01] [Server thread/INFO]: ElMuchecho joined the game
+[02:33:01] [Server thread/INFO]: ElMuchecho[/127.237.75.222:51699] logged in with entity id 22 at ([world]344.5, 64.0, -194.5)
+[02:33:01] [User Authenticator #0/INFO]: UUID of player Felix0609 is 3ccfb0e3-ea1b-3a98-bf79-cf424eacdd5d
+[02:33:01] [User Authenticator #0/INFO]: UUID of player KrazyKazu is 1bb58c82-7d6d-34c0-81af-ba8c69874389
+[02:33:02] [Server thread/INFO]: KrazyKazu joined the game
+[02:33:02] [Server thread/INFO]: KrazyKazu[/127.46.139.56:53647] logged in with entity id 58 at ([world]331.5, 84.0, -186.5)
+[02:33:02] [Server thread/INFO]: Felix0609 joined the game
+[02:33:02] [Server thread/INFO]: Felix0609[/127.145.222.197:44681] logged in with entity id 67 at ([world]343.5, 65.0, -198.5)
+[02:33:06] [User Authenticator #0/INFO]: UUID of player chichoelviolador is b723c0f5-6d2b-3e13-a911-0a46d8aa18dc
+[02:33:07] [Server thread/INFO]: chichoelviolador joined the game
+[02:33:07] [Server thread/INFO]: chichoelviolador[/127.218.26.230:48179] logged in with entity id 134 at ([world]336.5, 64.0, -188.5)
+[02:33:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Felix0609> afk
+[02:33:37] [User Authenticator #0/INFO]: UUID of player dark_15k is c18af6f5-2044-32b1-9b02-69ad64f14e55
+[02:33:40] [Server thread/INFO]: dark_15k joined the game
+[02:33:40] [Server thread/INFO]: dark_15k[/127.57.165.235:52717] logged in with entity id 159 at ([world]339.5, 66.0, -188.5)
+[02:33:44] [Async Chat Thread - #0/INFO]: [Not Secure] <KrazyKazu> unete al mete
+[02:33:47] [Async Chat Thread - #0/INFO]: [Not Secure] <ElMuchecho> ychevre el meet
+[02:33:52] [Async Chat Thread - #0/INFO]: [Not Secure] <KrazyKazu> xddx
+[02:33:58] [Async Chat Thread - #0/INFO]: [Not Secure] <KrazyKazu> https://meet.google.com/qxb-kcdw-afo
+[02:34:07] [Async Chat Thread - #0/INFO]: [Not Secure] <KrazyKazu> vengan
+[02:34:10] [Async Chat Thread - #0/INFO]: [Not Secure] <ElMuchecho> xdd
+[02:34:11] [Server thread/INFO]: KrazyKazu issued server command: /op @a
+[02:34:11] [Server thread/INFO]: [KrazyKazu: Made Felix0609 a server operator]
+[02:34:25] [Server thread/INFO]: KrazyKazu issued server command: /op ElMuchecho
+[02:34:35] [Server thread/INFO]: KrazyKazu issued server command: /gamemode creative
+[02:34:35] [Server thread/INFO]: [KrazyKazu: Set own game mode to Creative Mode]
+[02:34:37] [Server thread/INFO]: ElMuchecho issued server command: /kill Felix0609
+[02:34:37] [Server thread/INFO]: Felix0609 was killed
+[02:34:37] [Server thread/INFO]: [ElMuchecho: Killed Felix0609]
+[02:34:46] [Server thread/INFO]: ElMuchecho issued server command: /gamemode creative
+[02:34:46] [Server thread/INFO]: [ElMuchecho: Set own game mode to Creative Mode]
+[02:34:48] [Server thread/INFO]: Felix0609 issued server command: /deop ElMuchecho
+[02:34:48] [Server thread/INFO]: [Felix0609: Made ElMuchecho no longer a server operator]
+[02:34:49] [Server thread/INFO]: KrazyKazu has completed the challenge [Cover Me in Debris]
+[02:34:49] [Server thread/INFO]: dark_15k issued server command: /gamemode creative
+[02:34:49] [Server thread/INFO]: [dark_15k: Set own game mode to Creative Mode]
+[02:34:56] [Server thread/INFO]: Felix0609 issued server command: /deop chichoelviolador
+[02:34:56] [Server thread/INFO]: [Felix0609: Made chichoelviolador no longer a server operator]
+[02:34:57] [Server thread/INFO]: ElMuchecho has completed the challenge [Cover Me in Debris]
+[02:35:07] [Server thread/INFO]: dark_15k has completed the challenge [Cover Me in Debris]
+[02:35:07] [Server thread/INFO]: Felix0609 issued server command: /gamemode cre
+[02:35:12] [Server thread/INFO]: Felix0609 issued server command: /gamemode cre
+[02:35:12] [Server thread/INFO]: KrazyKazu has made the advancement [Ice Bucket Challenge]
+[02:35:14] [Server thread/INFO]: Felix0609 issued server command: /gamemode creative
+[02:35:14] [Server thread/INFO]: [Felix0609: Set own game mode to Creative Mode]
+[02:35:20] [Server thread/INFO]: KrazyKazu issued server command: /gamemode creative chichoelviolador
+[02:35:20] [Server thread/INFO]: [KrazyKazu: Set chichoelviolador's game mode to Creative Mode]
+[02:35:24] [Server thread/INFO]: Felix0609 has completed the challenge [Cover Me in Debris]
+[02:35:33] [Server thread/INFO]: chichoelviolador has completed the challenge [Cover Me in Debris]
+[02:36:13] [Server thread/INFO]: KrazyKazu has made the advancement [Cover Me with Diamonds]
+[02:36:17] [Server thread/INFO]: dark_15k has made the advancement [Ice Bucket Challenge]
+[02:37:19] [Server thread/INFO]: ElMuchecho has made the advancement [Ice Bucket Challenge]
+[02:37:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Felix0609> pera pe
+[02:37:52] [Server thread/INFO]: KrazyKazu issued server command: /tp Felix0609 KrazyKazu
+[02:37:52] [Server thread/INFO]: [KrazyKazu: Teleported Felix0609 to KrazyKazu]
+[02:37:55] [Server thread/INFO]: KrazyKazu issued server command: /tp dark_15k KrazyKazu
+[02:37:55] [Server thread/INFO]: [KrazyKazu: Teleported dark_15k to KrazyKazu]
+[02:38:01] [Server thread/INFO]: chichoelviolador has made the advancement [Diamonds!]
+[02:38:11] [Server thread/INFO]: KrazyKazu issued server command: /deop Felix0609
+[02:38:11] [Server thread/INFO]: [KrazyKazu: Made Felix0609 no longer a server operator]
+[02:38:14] [Server thread/INFO]: KrazyKazu issued server command: /deop dark_15k
+[02:38:14] [Server thread/INFO]: [KrazyKazu: Made dark_15k no longer a server operator]
+[02:38:16] [Server thread/INFO]: Felix0609 has reached the goal [Sky's the Limit]
+[02:38:17] [Server thread/INFO]: KrazyKazu issued server command: /deop Pielau0304
+[02:38:17] [Server thread/INFO]: [KrazyKazu: Made Pielau0304 no longer a server operator]
+[02:38:19] [Server thread/INFO]: KrazyKazu issued server command: /deop TopkWomen_xs29
+[02:38:19] [Server thread/INFO]: [KrazyKazu: Made TopkWomen_xs29 no longer a server operator]
+[02:38:23] [Server thread/INFO]: KrazyKazu issued server command: /deop b
+[02:38:23] [Server thread/INFO]: [KrazyKazu: Made b no longer a server operator]
+[02:38:56] [Server thread/INFO]: ElMuchecho issued server command: /spawn jenny belle
+[02:39:06] [Async Chat Thread - #4/INFO]: [Not Secure] <ElMuchecho> ./spawn jenny belle
+[02:39:17] [User Authenticator #1/INFO]: UUID of player Pielau0304 is 12969694-30a1-38b9-bfdf-0036f8290ec0
+[02:39:20] [Server thread/INFO]: Pielau0304 joined the game
+[02:39:20] [Server thread/INFO]: Pielau0304[/127.150.122.239:44531] logged in with entity id 855 at ([world]345.5, 66.0, -198.5)
+[02:39:35] [Server thread/INFO]: KrazyKazu issued server command: /gamemode creative Pielau0304
+[02:39:35] [Server thread/INFO]: [KrazyKazu: Set Pielau0304's game mode to Creative Mode]
+[02:39:35] [Server thread/INFO]: chichoelviolador has reached the goal [Sky's the Limit]
+[02:39:47] [Server thread/INFO]: KrazyKazu has reached the goal [Sky's the Limit]
+[02:39:48] [Server thread/INFO]: dark_15k has reached the goal [Sky's the Limit]
+[02:39:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Pielau0304> xd
+[02:39:51] [Server thread/INFO]: Pielau0304 was kicked due to keepalive timeout!
+[02:39:51] [Server thread/INFO]: Pielau0304 lost connection: Timed out
+[02:39:51] [Server thread/INFO]: Pielau0304 left the game
+[02:39:52] [Server thread/INFO]: ElMuchecho has made the advancement [Hot Stuff]
+[02:40:40] [Server thread/INFO]: KrazyKazu issued server command: /tp @a KrazyKazu
+[02:40:40] [Server thread/INFO]: [KrazyKazu: Teleported 5 entities to KrazyKazu]
+[02:40:52] [Server thread/INFO]: ElMuchecho has made the advancement [Take Aim]
+[02:40:54] [Server thread/INFO]: KrazyKazu issued server command: /gamemode survival @a
+[02:40:54] [Server thread/INFO]: [KrazyKazu: Set ElMuchecho's game mode to Survival Mode]
+[02:40:54] [Server thread/INFO]: [KrazyKazu: Set own game mode to Survival Mode]
+[02:40:54] [Server thread/INFO]: [KrazyKazu: Set chichoelviolador's game mode to Survival Mode]
+[02:40:54] [Server thread/INFO]: [KrazyKazu: Set dark_15k's game mode to Survival Mode]
+[02:40:54] [Server thread/INFO]: [KrazyKazu: Set Felix0609's game mode to Survival Mode]
+[02:41:07] [Server thread/INFO]: dark_15k has made the advancement [Take Aim]
+[02:41:49] [Server thread/INFO]: KrazyKazu issued server command: /difficulty hard
+[02:41:49] [Server thread/INFO]: [KrazyKazu: The difficulty has been set to Hard]
+[02:42:12] [Server thread/INFO]: ElMuchecho has made the advancement [Monster Hunter]
+[02:42:16] [Server thread/INFO]: KrazyKazu issued server command: /difficulty peaceful
+[02:42:16] [Server thread/INFO]: [KrazyKazu: The difficulty has been set to Peaceful]
+[02:42:25] [Server thread/INFO]: KrazyKazu issued server command: /difficulty hard
+[02:42:25] [Server thread/INFO]: [KrazyKazu: The difficulty has been set to Hard]
+[02:42:30] [User Authenticator #2/INFO]: UUID of player Pielau0304 is 12969694-30a1-38b9-bfdf-0036f8290ec0
+[02:42:31] [Server thread/INFO]: Pielau0304 joined the game
+[02:42:31] [Server thread/INFO]: Pielau0304[/127.150.122.239:49199] logged in with entity id 1438 at ([world]354.69999998807907, 69.0, -200.9214853344378)
+[02:42:41] [Server thread/INFO]: dark_15k was blown up by dark_15k
+[02:42:42] [Server thread/INFO]: Pielau0304 has completed the challenge [Cover Me in Debris]
+[02:42:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Felix0609> HJAJAJJAJA}
+[02:42:50] [Server thread/INFO]: Felix0609 has reached the goal [Postmortal]
+[02:43:06] [Server thread/INFO]: Pielau0304 was kicked due to keepalive timeout!
+[02:43:06] [Server thread/INFO]: Pielau0304 lost connection: Timed out
+[02:43:06] [Server thread/INFO]: Pielau0304 left the game
+[02:43:17] [Server thread/INFO]: KrazyKazu issued server command: /locate structure minecraft:stronghold
+[02:43:17] [Server thread/INFO]: Locating element minecraft:stronghold took 26 ms
+[02:43:23] [User Authenticator #2/INFO]: UUID of player Pielau0304 is 12969694-30a1-38b9-bfdf-0036f8290ec0
+[02:43:24] [Server thread/INFO]: KrazyKazu issued server command: /tp 512 100 -1632
+[02:43:24] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to 512.500000, 100.000000, -1631.500000]
+[02:43:28] [Server thread/INFO]: Pielau0304 joined the game
+[02:43:28] [Server thread/INFO]: Pielau0304[/127.150.122.239:43743] logged in with entity id 1600 at ([world]367.3696039801729, 70.0, -199.86105372061178)
+[02:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[02:43:29] [Server thread/INFO]: KrazyKazu issued server command: /gamemode spectator
+[02:43:29] [Server thread/INFO]: [KrazyKazu: Set own game mode to Spectator Mode]
+[02:43:48] [Server thread/INFO]: dark_15k fell from a high place
+[02:43:54] [Server thread/INFO]: KrazyKazu has made the advancement [Eye Spy]
+[02:43:59] [Server thread/INFO]: KrazyKazu issued server command: /gamemode creative
+[02:43:59] [Server thread/INFO]: [KrazyKazu: Set own game mode to Creative Mode]
+[02:44:12] [Server thread/INFO]: Pielau0304 has reached the goal [Sky's the Limit]
+[02:44:23] [Server thread/INFO]: KrazyKazu issued server command: /gamemode survival @a
+[02:44:23] [Server thread/INFO]: [KrazyKazu: Set own game mode to Survival Mode]
+[02:44:23] [Server thread/INFO]: [KrazyKazu: Set Pielau0304's game mode to Survival Mode]
+[02:44:24] [Server thread/INFO]: KrazyKazu has made the advancement [The End?]
+[02:44:25] [Server thread/INFO]: dark_15k was slain by Pielau0304
+[02:44:26] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:44:26] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:44:34] [Server thread/INFO]: KrazyKazu issued server command: /tp @a KrazyKazu
+[02:44:34] [Server thread/INFO]: ElMuchecho has made the advancement [The End?]
+[02:44:34] [Server thread/INFO]: chichoelviolador has made the advancement [The End?]
+[02:44:34] [Server thread/INFO]: Felix0609 has made the advancement [The End?]
+[02:44:34] [Server thread/INFO]: Pielau0304 has made the advancement [The End?]
+[02:44:34] [Server thread/INFO]: dark_15k has made the advancement [The End?]
+[02:44:34] [Server thread/INFO]: [KrazyKazu: Teleported 6 entities to KrazyKazu]
+[02:44:48] [Server thread/INFO]: chichoelviolador has made the advancement [Monster Hunter]
+[02:45:10] [Server thread/INFO]: dark_15k was doomed to fall by Felix0609
+[02:45:35] [Server thread/INFO]: KrazyKazu has made the advancement [Monster Hunter]
+[02:45:42] [Server thread/INFO]: KrazyKazu issued server command: /difficulty peaceful
+[02:45:42] [Server thread/INFO]: [KrazyKazu: The difficulty has been set to Peaceful]
+[02:46:14] [Server thread/INFO]: KrazyKazu issued server command: /difficulty hard
+[02:46:14] [Server thread/INFO]: [KrazyKazu: The difficulty has been set to Hard]
+[02:46:17] [Server thread/INFO]: Pielau0304 has made the advancement [Take Aim]
+[02:46:20] [Server thread/INFO]: chichoelviolador fell from a high place
+[02:46:37] [Server thread/INFO]: ElMuchecho has reached the goal [Postmortal]
+[02:46:43] [Server thread/INFO]: KrazyKazu has reached the goal [Postmortal]
+[02:46:50] [Server thread/INFO]: chichoelviolador has made the advancement [Stone Age]
+[02:46:56] [Server thread/INFO]: KrazyKazu was blown up by KrazyKazu
+[02:47:01] [Server thread/INFO]: KrazyKazu issued server command: /tp Pielau0304
+[02:47:01] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to Pielau0304]
+[02:47:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Pielau0304> XDD
+[02:47:24] [Server thread/INFO]: dark_15k has made the advancement [Stone Age]
+[02:47:29] [Server thread/INFO]: Felix0609 was doomed to fall by Felix0609
+[02:47:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Felix0609> tpeame p kzuki
+[02:47:58] [Server thread/INFO]: chichoelviolador was doomed to fall by Shulker
+[02:48:14] [Server thread/INFO]: Pielau0304 has reached the goal [Postmortal]
+[02:48:27] [Server thread/INFO]: KrazyKazu issued server command: /tp @a KrazyKazu
+[02:48:27] [Server thread/INFO]: [KrazyKazu: Teleported 6 entities to KrazyKazu]
+[02:48:32] [Server thread/INFO]: KrazyKazu was blown up by ElMuchecho
+[02:48:32] [Server thread/INFO]: Felix0609 was blown up by ElMuchecho
+[02:48:33] [Server thread/INFO]: chichoelviolador was slain by Pielau0304
+[02:48:37] [Server thread/INFO]: KrazyKazu issued server command: /tp chichoelviolador
+[02:48:37] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to chichoelviolador]
+[02:48:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Felix0609> esperen me
+[02:48:40] [Async Chat Thread - #8/INFO]: [Not Secure] <chichoelviolador> ok
+[02:48:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Felix0609> ya regreso
+[02:48:46] [Server thread/INFO]: KrazyKazu issued server command: /tp ElMuchecho
+[02:48:46] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to ElMuchecho]
+[02:48:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Felix0609> oeoeoe
+[02:48:49] [Server thread/INFO]: KrazyKazu was blown up by ElMuchecho
+[02:48:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Felix0609> q pasa
+[02:48:52] [Server thread/INFO]: KrazyKazu issued server command: /tp ElMuchecho
+[02:48:52] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to ElMuchecho]
+[02:49:12] [Server thread/INFO]: Pielau0304 has made the advancement [Monster Hunter]
+[02:49:19] [Server thread/INFO]: dark_15k was slain by Enderman
+[02:49:52] [Server thread/INFO]: KrazyKazu was blown up by ElMuchecho
+[02:49:56] [Server thread/INFO]: KrazyKazu issued server command: /tp ElMuchecho
+[02:49:56] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to ElMuchecho]
+[02:50:50] [Server thread/INFO]: Pielau0304 has made the advancement [Stone Age]
+[02:51:03] [Server thread/INFO]: KrazyKazu issued server command: /tp @a KrazyKazu
+[02:51:03] [Server thread/INFO]: [KrazyKazu: Teleported 6 entities to KrazyKazu]
+[02:51:06] [Server thread/INFO]: Felix0609 was blown up by ElMuchecho
+[02:51:06] [Server thread/INFO]: dark_15k was blown up by ElMuchecho
+[02:51:06] [Server thread/INFO]: ElMuchecho has made the advancement [Voluntary Exile]
+[02:51:14] [Server thread/INFO]: KrazyKazu was slain by Vindicator
+[02:51:19] [Server thread/INFO]: KrazyKazu issued server command: /tp ElMuchecho
+[02:51:19] [Server thread/INFO]: [KrazyKazu: Teleported KrazyKazu to ElMuchecho]
+[02:51:21] [Server thread/INFO]: chichoelviolador was blown up by chichoelviolador
+[02:51:26] [Server thread/INFO]: KrazyKazu issued server command: /gamemode creative @a
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set ElMuchecho's game mode to Creative Mode]
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set Pielau0304's game mode to Creative Mode]
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set Felix0609's game mode to Creative Mode]
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set dark_15k's game mode to Creative Mode]
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set own game mode to Creative Mode]
+[02:51:26] [Server thread/INFO]: [KrazyKazu: Set chichoelviolador's game mode to Creative Mode]
+[02:51:27] [Async Chat Thread - #10/INFO]: [Not Secure] <chichoelviolador> ok
+[02:51:31] [Server thread/INFO]: KrazyKazu issued server command: /tp @a KrazyKazu
+[02:51:31] [Server thread/INFO]: [KrazyKazu: Teleported 6 entities to KrazyKazu]
